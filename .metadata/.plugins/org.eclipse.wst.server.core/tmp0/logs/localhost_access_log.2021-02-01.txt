@@ -1,0 +1,12 @@
+127.0.0.1 - - [01/Feb/2021:21:21:00 +0530] "GET / HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:21:21:01 +0530] "GET /Struts-Hello-World/ HTTP/1.1" 200 315
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:21:21:11 +0530] "GET /Struts-Hello-World/Link.do HTTP/1.1" 200 174
+127.0.0.1 - - [01/Feb/2021:21:28:24 +0530] "GET / HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:21:28:26 +0530] "GET /Struts-Hello-World/ HTTP/1.1" 200 315
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:21:28:29 +0530] "GET /Struts-Hello-World/Link.do HTTP/1.1" 200 177
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:21:41:33 +0530] "GET /Struts-Hello-World HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:21:41:33 +0530] "GET /Struts-Hello-World/ HTTP/1.1" 200 315
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:21:41:37 +0530] "GET /Struts-Hello-World/Link.do HTTP/1.1" 200 3693
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:22:26:20 +0530] "GET /Struts-Hello-World/Link.do HTTP/1.1" 200 3693
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:22:28:19 +0530] "GET /Struts-Hello-World/Link.do HTTP/1.1" 200 3693
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:22:28:19 +0530] "GET /favicon.ico HTTP/1.1" 404 1080

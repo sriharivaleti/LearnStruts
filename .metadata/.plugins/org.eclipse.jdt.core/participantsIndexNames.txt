@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\sivaleti\Desktop\Sreehari\EclipseWorkspace\LearnStruts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2282570269.index
+\StrutsTilesDemo\src
+C:\Users\sivaleti\Desktop\Sreehari\EclipseWorkspace\LearnStruts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2619543338.index
+\Struts-Hello-World\src

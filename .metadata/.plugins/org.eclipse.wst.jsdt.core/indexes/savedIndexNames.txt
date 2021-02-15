@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\sivaleti\Desktop\Sreehari\EclipseWorkspace\LearnStruts\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3167301810.index
+2414805431.index
+449622136.index
+1904894078.index
+4101418873.index
+3343967266.index
+4077599321.index
+308986261.index

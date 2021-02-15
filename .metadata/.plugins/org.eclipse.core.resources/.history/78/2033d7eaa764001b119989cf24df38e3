@@ -1,0 +1,32 @@
+package com.hari;
+
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.struts.actions.DispatchAction;
+import org.apache.struts.action.Action;
+import org.apache.struts.action.ActionForm;
+import org.apache.struts.action.ActionMapping;
+import org.apache.struts.action.ActionForward;
+
+public class LinkAction extends Action {   
+   
+  
+	@Override
+    public ActionForward execute(ActionMapping mapping, ActionForm  form,
+            HttpServletRequest request, HttpServletResponse response)
+            throws Exception {
+        //request.setAttribute("name","sreehari");
+		
+		model.addAttribute("url", "http://localhost:9797/jasperserver-pro/flow.html");
+		model.addAttribute("pp", createPreauthToken(req.getParameter("key"),req.getParameter("username"),req.getParameter("org")));
+		
+		
+		
+        return mapping.findForward("success");
+    }
+
+   
+   
+}
